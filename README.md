@@ -1,15 +1,15 @@
-<h2>Hi, there, I'm Govind Varshney! <img src="" width="50"></h2>
+<h2>Hi, there, I'm Govind Varshney !!!</h2>
 <img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230">
 <p><em>Software Engineer at <a href="https://www.simform.com/">Simform Solutions</a> 
 </em></p>
 
 [![Twitter Follow](https://img.shields.io/twitter/follow/govindvarshny?label=Follow)](https://twitter.com/intent/follow?screen_name=govindvarshny)
 [![Linkedin: govind](https://img.shields.io/badge/-govind-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/govindvarshny/)](https://www.linkedin.com/in/govindvarshny/)
-![GitHub followers](https://img.shields.io/github/followers/govindvarshny?label=Follow&style=social)
-[![website](https://img.shields.io/badge/Website-46a2f1.svg?&style=flat-square&logo=Google-Chrome&logoColor=white&link=https://govindvarshney.me/)](https://anmolsingh.me/)
+[![GitHub followers](https://img.shields.io/github/followers/govindvarshny?label=Follow&style=social)](https://www.github.com/govindvarshny/)
+[![website](https://img.shields.io/badge/Website-46a2f1.svg?&style=flat-square&logo=Google-Chrome&logoColor=white&link=https://govindvarshney.me/)](https://govindvarshney.me/)
 ![](https://visitor-badge.glitch.me/badge?page_id=govindvarshny.govindvarshny)
 
-### <img src="https://github.com/govindvarshny/test5/blob/main/emoji.png" width="50"> A little more about me...
+### A LITTLE MORE ABOUT ME...
 
 ```javascript
 const Govind = {
@@ -112,5 +112,3 @@ CSS                      3 repos             █░░░░░░░░░░�
 Last Updated on 02/12/2021
 
 <!--END_SECTION:waka-->
-
-**These Readme stats are generated using github action [awesome-readme-stats](https://github.com/anmol098/waka-readme-stats)**
