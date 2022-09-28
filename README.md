@@ -19,6 +19,7 @@ const Govind = {
   technologies: {
     backEnd: {
       js: ["Node"],
+      dB: Realm, Oracle
     },
     mobileApp: {
       native: ["Android Development", "IOS Development"],
@@ -35,6 +36,6 @@ const Govind = {
 <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> 😊</em>
 
 
-Last Updated on 04/12/2021
+Last Updated on 28/09/2022
 
 <!--END_SECTION:waka-->
