@@ -14,7 +14,7 @@
 ```javascript
 const Govind = {
   pronouns: "He" | "Him",
-  code: ["Javascript", "React Native", "C++", "Python"],
+  code: ["Javascript", "React Native", "ReactJS", "HTML", "CSS"],
   askMeAbout: ["app dev", "web dev", "tech", "photography", "Travelling"],
   technologies: {
     backEnd: {
@@ -22,7 +22,7 @@ const Govind = {
       dB: Realm, Oracle
     },
     mobileApp: {
-      native: ["Android Development", "IOS Development"],
+      native: ["Android Development", "iOS Development"],
     },
     databases: ["mongo", "MySql", "sqlite"],
     misc: ["Firebase", "AWS"],
