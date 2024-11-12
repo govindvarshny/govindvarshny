@@ -1,6 +1,6 @@
 <h2>Hi, there, I'm Govind Varshney !!!</h2>
 <img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230">
-<p><em>SDE 2 at <a href="https://www.uneecops.com/](https://www.parksmart.in/">ParkSmart Technologies Pvt Ltd</a> 
+<p><em>SDE 2 at <a href="https://www.parksmart.in/">ParkSmart Technologies Pvt Ltd</a> 
 </em></p>
 
 [![Twitter Follow](https://img.shields.io/twitter/follow/govindvarshny?label=Follow)](https://twitter.com/intent/follow?screen_name=govindvarshny)
